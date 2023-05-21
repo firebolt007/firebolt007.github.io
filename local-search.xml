@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>journal-23-05-22</title>
+    <link href="/2023/05/22/journal-23-05-22/"/>
+    <url>/2023/05/22/journal-23-05-22/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>Journal</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>original</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>戏剧剖析-review</title>
     <link href="/2023/04/08/%E6%88%8F%E5%89%A7%E5%89%96%E6%9E%90-review/"/>
     <url>/2023/04/08/%E6%88%8F%E5%89%A7%E5%89%96%E6%9E%90-review/</url>
@@ -33,7 +58,7 @@
     <link href="/2023/04/07/learncpp00/"/>
     <url>/2023/04/07/learncpp00/</url>
     
-    <content type="html"><![CDATA[<p>Programming language:</p><p>machine code -&gt; assembly language -&gt; high level language</p><p>assembly language:</p><ul><li>fast</li><li>not portable</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>Programming language:</p><p>machine code -&gt; assembly language -&gt; high level language</p><p>assembly language:</p><ul><li>fast</li><li>not portable</li></ul><p>intepretor:<br>compiler: code-&gt;executable code</p>]]></content>
     
     
     <categories>
@@ -58,7 +83,7 @@
     <link href="/2023/03/03/my-first-article/"/>
     <url>/2023/03/03/my-first-article/</url>
     
-    <content type="html"><![CDATA[<p>今天看了戴锦华和上野的对谈，（再次）感受到那种，一股气流在胸腔激荡的感觉。或许是为思想的交锋，或许是为</p>]]></content>
+    <content type="html"><![CDATA[<p>今天看了戴锦华和上野的对谈，（再次）感受到那种，一股气流在胸腔激荡的感觉。</p>]]></content>
     
     
     <categories>
